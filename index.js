@@ -1,4 +1,17 @@
-const items1 = [[1, 'home', 'Dashboard'], [2, 'my_location', 'Leads'], [3, 'person', 'People'], [4, 'domain', 'Companies'], [5, 'double_arrow', 'Pipelines'], [6, 'work', 'Projects'], [7, 'check_box', 'Tasks'], ['-', 'slow_motion_video', 'Marketing Tools'], [8, 'mail', 'My Tracked Emails'], ['-', 'data_usage', 'Reports'], [9, 'insert_chart', 'Legacy Reports'], [0, 'settings', 'Settings']];
+const items1 = [
+    [1, 'home', 'Dashboard'],
+    [2, 'my_location', 'Leads'],
+    [3, 'person', 'People'],
+    [4, 'domain', 'Companies'],
+    [5, 'double_arrow', 'Pipelines'],
+    [6, 'work', 'Projects'],
+    [7, 'check_box', 'Tasks'],
+    ['-', 'slow_motion_video', 'Marketing Tools'],
+    [8, 'mail', 'My Tracked Emails'],
+    ['-', 'data_usage', 'Reports'],
+    [9, 'insert_chart', 'Legacy Reports'],
+    [0, 'settings', 'Settings']
+];
 
 
 function render() {
